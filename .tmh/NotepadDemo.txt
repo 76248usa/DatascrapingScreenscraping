@@ -1,0 +1,4 @@
+Studio comes with two types of profiles for developers and business users:
+
+Studio offers a plethora of tools for designing complex attended, unattended, and testing automations.
+StudioX enables business users with little or no coding experience to automate their tasks. Check out the StudioX guide.
